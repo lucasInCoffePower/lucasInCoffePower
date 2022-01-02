@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align='center'> Olá, seja bem-vindo. 👨‍💻 </h1>
   
-### - Universitário de Computação:computer: e Neurociência :brain:
+### - Universitário de Computação :computer: e Neurociência :brain:
 ### - Estudante de Data Science e Machine Learning
 
 
@@ -11,6 +11,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasInCoffePower&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
+## Experiência (+XP)
+### - Dev Junior
+### - Sem experiência 
 
 ## Contato 📞 
 
