@@ -12,8 +12,7 @@
 </p>
 
 ## Experiência (+XP)
-### - Dev Junior
-### - Sem experiência 
+### - Dev Junior - Sem experiência
 
 ## Contato 📞 
 
