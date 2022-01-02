@@ -4,7 +4,7 @@
 ### - Universitário de Computação:computer: e Neurociência :brain:
 ### - Estudante de Data Science e Machine Learning. 
 
-</div>
+
   
 <p align=center>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasInCoffePower&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -23,6 +23,8 @@
   <a href="mailto:lucas_matias@protonmail.com">
         <img alt="lucas_matias@protonmail.com" src="https://img.shields.io/badge/protonmail-3c6eab?logo=protonmail&style=for-the-badge" />
   </a>&nbsp;&nbsp;
+ 
+ </div>
 
 
 
