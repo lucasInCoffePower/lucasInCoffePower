@@ -1,8 +1,8 @@
 <div align="center">
 <h1 align='center'> Olá, seja bem-vindo. 👨‍💻 </h1>
   
-### - Universitário de Computação :computer: e Neurociência :brain:
-### - Estudante de Data Science e Machine Learning
+###  Universitário de Computação :computer: e Neurociência :brain:
+###  Estudante de Data Science e Machine Learning
 
 
   
@@ -12,7 +12,7 @@
 </p>
 
 ## Experiência (+XP)
-### - Dev Junior - Sem experiência
+### Dev Junior - Sem experiência
 
 ## Contato 📞 
 
