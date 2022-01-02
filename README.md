@@ -2,7 +2,7 @@
 <h1 align='center'> Olá, seja bem-vindo. 👨‍💻 </h1>
   
 ### - Universitário de Computação:computer: e Neurociência :brain:
-### - Estudante de Data Science e Machine Learning. 
+### - Estudante de Data Science e Machine Learning
 
 
   
@@ -12,7 +12,7 @@
 </p>
 
 
-## Contatos: 👇🏽 📞 
+## Contato 📞 
 
   <a href="https://www.linkedin.com/in/alexandresanlim/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
