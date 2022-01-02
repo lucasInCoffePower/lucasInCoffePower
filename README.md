@@ -6,7 +6,6 @@
 ### - Estudante de Data Science e Machine Learning. 
   
  
-<a href="https://github.com/lucasInCoffePower">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasInCoffePower&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasInCoffePower&layout=compact&langs_count=7&theme=dark"/>
 
