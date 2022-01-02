@@ -3,17 +3,12 @@
 <h1 align='center'> Olá, seja bem-vindo. 👨‍💻 </h1>
   
 ### - Universitário de Computação:computer: e Neurociência :brain:
-### 
+### - Estudante de Data Science e Machine Learning. 
   
-  
-
-<div>
-  <a href="https://github.com/lucasInCoffePower">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasInCoffePower&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasInCoffePower&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-## 💻 Tecnologias estudadas
+ 
+<a href="https://github.com/lucasInCoffePower">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasInCoffePower&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasInCoffePower&layout=compact&langs_count=7&theme=dark"/>
 
 
 ## Contatos: 👇🏽 📞 
