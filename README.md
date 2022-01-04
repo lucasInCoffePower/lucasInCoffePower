@@ -25,7 +25,9 @@
   <a href="mailto:lucas_matias@protonmail.com">
         <img alt="lucas_matias@protonmail.com" src="https://img.shields.io/badge/protonmail-3c6eab?logo=protonmail&style=for-the-badge" />
   </a>&nbsp;&nbsp;
- 
+ <a href="mailto:https://www.kaggle.com/ytrully">
+        <img alt="https://www.kaggle.com/ytrully" src="https://img.shields.io/badge/kaggle-3c6eab?logo=kaggle&style=for-the-badge" />
+  </a>&nbsp;&nbsp;
  </div>
 
 
