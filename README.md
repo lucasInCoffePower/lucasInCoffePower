@@ -12,8 +12,12 @@
 </p>
 
 ## Experiência (+XP)
-### Dev Junior - Sem experiência
-
+Infelizmente ainda não tive a oportunidade de ter uma experiência profissional, então não tenho como colocar algo aqui 😞. Porém, você pode consultar meus trabalhos acadêmicos e pessoais nessa plataforma e em outras que estão logo abaixo.
+  
+<a href="https://www.kaggle.com/ytrully">
+      <img alt="https://www.kaggle.com/ytrully" src="https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>&nbsp;&nbsp;
+  
 ## Contato 📞 
 
   <a href="https://www.linkedin.com/in/lucas-m-3711921b1/">
@@ -24,9 +28,6 @@
   </a>&nbsp;&nbsp;
   <a href="mailto:lucas_matias@protonmail.com">
         <img alt="lucas_matias@protonmail.com" src="https://img.shields.io/badge/protonmail-3c6eab?logo=protonmail&style=for-the-badge" />
-  </a>&nbsp;&nbsp;
- <a href="https://www.kaggle.com/ytrully">
-        <img alt="https://www.kaggle.com/ytrully" src="https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>&nbsp;&nbsp;
  </div>
 
