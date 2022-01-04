@@ -16,7 +16,7 @@
 
 ## Contato 📞 
 
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
+  <a href="https://www.linkedin.com/in/lucas-m-3711921b1/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://telegram.me/MindwFear">
