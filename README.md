@@ -23,9 +23,6 @@ Infelizmente ainda não tive a oportunidade de ter uma experiência profissional
   <a href="https://www.linkedin.com/in/lucas-m-3711921b1/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://telegram.me/MindwFear">
-        <img alt="Telegram" src="https://img.shields.io/badge/telegram-3c6eab?logo=telegram&style=for-the-badge" />
-  </a>&nbsp;&nbsp;
   <a href="mailto:lucas_matias@protonmail.com">
         <img alt="lucas_matias@protonmail.com" src="https://img.shields.io/badge/protonmail-3c6eab?logo=protonmail&style=for-the-badge" />
   </a>&nbsp;&nbsp;
