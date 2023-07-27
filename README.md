@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align='center'> Olá, seja bem-vindo. 👨‍💻 </h1>
   
-###  Universitário de Telecomunicações :computer: :mobile:
+###  Universitário de Telecomunicações :computer: 📱
 ###  Estudante de Data Science e Cibersegurança
 ###  Interesse em IOT, cibersegurança, programação mobile, programação web, Neurociência Computacional e Bioinformática
 
