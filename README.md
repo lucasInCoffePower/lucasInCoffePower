@@ -3,7 +3,7 @@
   
 ###  Universitário de Telecomunicações :computer: 📱
 ###  Estudante de Data Science e Cibersegurança
-###  Interesse em IOT, cibersegurança, programação mobile, programação web, Neurociência Computacional e Bioinformática
+###  Interesse em IOT, cibersegurança, programação mobile, programação web, Telecomunicações, Cloud
 
 
   
@@ -21,7 +21,7 @@ Infelizmente ainda não tive a oportunidade de ter uma experiência profissional
   
 ## Contato 📞 
 
-  <a href="https://www.linkedin.com/in/lucas-s-3711921b1/">
+  <a href="https://www.linkedin.com/in/lucas-s-3711921b1">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:lucas_matias@protonmail.com">
