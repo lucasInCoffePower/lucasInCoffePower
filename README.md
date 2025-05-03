@@ -13,7 +13,8 @@
 </p>
 
 ## Experiência (+XP)
-Infelizmente ainda não tive a oportunidade de ter uma experiência profissional, então não tenho como colocar algo aqui 😞. Porém, você pode consultar meus trabalhos acadêmicos e pessoais nessa plataforma e em outras que estão logo abaixo.
+- 3 anos como suporte de TI
+- 2 anos como criador de automações e editor de arquivos e vídeos 
   
 <a href="https://www.kaggle.com/ytrully">
       <img alt="https://www.kaggle.com/ytrully" src="https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
