@@ -3,7 +3,7 @@
   
 ###  Universitário de Telecomunicações :computer: 📱
 ###  Estudante de Data Science e Cibersegurança
-###  Interesse em IOT, cibersegurança, programação mobile, programação web, Telecomunicações, Cloud
+###  Redes de computadores, Automação e WebScraping, cibersegurança, Pentest, Análise de Dados, Ciência de Dados, programação web, Telecomunicações, Cloud, IA
 
 
   
