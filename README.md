@@ -13,8 +13,7 @@
 </p>
 
 ## Experiência (+XP)
-- 3 anos como suporte de TI
-- 2 anos como criador de automações e editor de arquivos e vídeos 
+Atuei por 1 ano como estagiário em Redes de Computadores, 2 anos como suporte técnico e 2 anos como freelancer, criando automações com python e fazendo edição de arquivos e vídeos.
   
 <a href="https://www.kaggle.com/ytrully">
       <img alt="https://www.kaggle.com/ytrully" src="https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
